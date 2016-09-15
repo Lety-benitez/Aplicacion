@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application</string>
+    <string name="Apellido">Last name</string>
+    <string name="Codigo">Code</string>
+    <string name="Escriba_su_Nombre">Write your name</string>
+    <string name="Escriva_apellido">Enter your Name</string>
+    <string name="Guardar">save</string>
+    <string name="Nombre">Name</string>
+</resources>
